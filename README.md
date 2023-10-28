@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Next js**
 
-- 👨‍💻 All of my projects are available at [https://umair936.github.io/MyPortfolio/](https://umair936.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [umairghafar.vercel.app](umairghafar.vercel.app)
 
 - 💬 Ask me about **react, node, express, next**
 
