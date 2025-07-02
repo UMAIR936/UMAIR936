@@ -55,30 +55,6 @@ Software Engineer with **2+ years** of experience building enterprise SaaS platf
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 **AI Chatbot Development Platform**
-- Built end-to-end platform for custom AI chatbot creation, training, and deployment
-- Implemented scalable WebSocket backend with real-time analytics dashboard
-- Integrated e-commerce, CMS, and productivity tools via secure APIs
-
-### 🧠 **Catalyser AI Module**
-- Developed intelligent AI components for SaaS platform
-- Automated answer generation, dynamic visualizations, and smart report scheduling
-- Enhanced user experience through AI-powered automation
-
-### ⚖️ **Legal Document AI Generator**
-- Created web-based platform generating country-specific legal documents
-- Utilized AI to interpret and apply local legal frameworks
-- Streamlined legal document creation process
-
-### 🔍 **Serverless Brand Analysis API**
-- Built using AWS Lambda and DynamoDB with integrated scraping tools
-- Leveraged Pinecone vector database for intelligent brand analysis
-- Implemented LangChain for automated data extraction and processing
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
