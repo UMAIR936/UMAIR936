@@ -1,111 +1,136 @@
-<h1 align="center">Hi 👋, I'm Umair Ghaffar</h1>
-<h3 align="center">Coding enthusiast passionate about full-stack web development, dedicated to continuous learning and growth</h3>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=umair936&label=Profile%20views&color=0e75b6&style=flat" alt="umair936" />
-</p>
+# Umair Ghaffar
+### Software Engineer | Full-Stack Developer | AI Integration Specialist
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=umair936" alt="umair936" />
-  </a> 
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-umairghaffar.vercel.app-blue?style=for-the-badge&logo=vercel)](https://umairghaffar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umair-ghaffar)
+[![Email](https://img.shields.io/badge/Email-umairghaffar936@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairghaffar936@gmail.com)
 
-- 🌱 I’m currently learning **MERN stack, Next.js**
-- 👨‍💻 All of my projects are available at [umairghafar.vercel.app](https://umairghafar.vercel.app)
-- 💬 Ask me about **React, Node.js, Express, Next.js**
-- 📫 How to reach me: **umairghaffar936@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=umair936&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/umair-ghaffar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umair Ghaffar" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
-  <a href="https://stripe.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/> 
-  </a> 
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/> 
-  </a> 
-  <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socket.io" width="40" height="40"/> 
-  </a> 
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="chakra-ui" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umair936&show_icons=true&locale=en&layout=compact" alt="umair936" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umair936&show_icons=true&locale=en" alt="umair936" /></p>
+Software Engineer with **2+ years** of experience building enterprise SaaS platforms and AI-integrated applications. Currently leading development at **Texagon**, where I've delivered **12+ web applications** including AI chatbot platforms and comprehensive SaaS solutions.
 
+- 🏢 **Current Role:** Software Engineer at Texagon, Lahore
+- 🎓 **Education:** BS Computer Science, COMSATS University Lahore
+- 🚀 **Expertise:** Full-stack development, AI integration, cloud architecture
+- 🌱 **Focus:** Building scalable applications with modern JavaScript technologies
+- 💡 **Passion:** Clean code, performance optimization, and innovative solutions
+
+---
+
+## 🛠️ Technical Stack
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### **Backend & Cloud**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### **Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 **AI Chatbot Development Platform**
+- Built end-to-end platform for custom AI chatbot creation, training, and deployment
+- Implemented scalable WebSocket backend with real-time analytics dashboard
+- Integrated e-commerce, CMS, and productivity tools via secure APIs
+
+### 🧠 **Catalyser AI Module**
+- Developed intelligent AI components for SaaS platform
+- Automated answer generation, dynamic visualizations, and smart report scheduling
+- Enhanced user experience through AI-powered automation
+
+### ⚖️ **Legal Document AI Generator**
+- Created web-based platform generating country-specific legal documents
+- Utilized AI to interpret and apply local legal frameworks
+- Streamlined legal document creation process
+
+### 🔍 **Serverless Brand Analysis API**
+- Built using AWS Lambda and DynamoDB with integrated scraping tools
+- Leveraged Pinecone vector database for intelligent brand analysis
+- Implemented LangChain for automated data extraction and processing
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umair936&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umair936&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umair936&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Professional Experience
+
+**Software Engineer** @ **Texagon** *(Nov 2023 - Present)*
+- Leading development of 12+ web applications including AI chatbot platforms
+- Architecting serverless solutions using AWS services and WebSocket implementations
+- Managing cross-functional teams from conception to production deployment
+
+**Junior Software Engineer** @ **Devaxl** *(Feb 2023 - Sep 2023)*
+- Developed carrier onboarding and dispatch management features for TMS
+- Improved operational efficiency through streamlined communication workflows
+
+---
+
+## 🎯 Current Focus
+
+- 🔥 Building scalable AI-integrated applications
+- 🌐 Exploring advanced cloud architectures
+- 📚 Continuous learning in emerging technologies
+- 🤝 Open to collaboration on innovative projects
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing new opportunities, innovative projects, or just connecting with fellow developers!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-ghaffar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://umairghaffar.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairghaffar936@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building the future, one line of code at a time"* 💻✨
+
+</div>
